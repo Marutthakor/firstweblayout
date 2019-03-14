@@ -1,0 +1,191 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.back {
+    background-color: burlywood;
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.in {
+    background-color: sienna;
+    height: 25%;
+    width: 25%;
+
+    position: absolute;
+    display: inline-block;
+}
+
+.in2 {
+    background-color: sienna;
+    height: 25%;
+    width: 25%;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    display: inline-block;
+}
+
+.second {
+    background-color: darkolivegreen;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+
+.secin {
+    background-color: cornflowerblue;
+    height: 60%;
+    width: 60%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+
+}
+
+.e1 {
+    background-color: sienna;
+    height: 100%;
+    width: 50%;
+    top: 0;
+    position: relative;
+    display: inline-block;
+}
+
+.e2 {
+    background-color: fuchsia;
+    height: 100%;
+    width: 50%;
+    top: 0;
+    position: relative;
+    display: inline-block;
+}
+
+
+
+.ie {
+    background-color: aquamarine;
+    height: 33.33%;
+    width: 33.33%;
+
+    display: inline-block;
+}
+
+.ie2 {
+    background-color: aquamarine;
+    height: 33.33%;
+    width: 33.33%;
+    right: 0;
+    top: 0;
+    position: absolute;
+}
+
+.ie3 {
+    background-color: aquamarine;
+    height: 33.33%;
+    width: 33.33%;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.ie4 {
+    background-color: aquamarine;
+    height: 33.33%;
+    width: 33.33%;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.ie5 {
+    background-color: chartreuse;
+    height: 33.33%;
+    width: 33.33%;
+
+    display: inline-block;
+}
+
+.ie6 {
+    background-color: chartreuse;
+    height: 33.33%;
+    width: 33.33%;
+    right: 0;
+    top: 0;
+    position: absolute;
+}
+
+.ie7 {
+    background-color: chartreuse;
+    height: 33.33%;
+    width: 33.33%;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.ie8 {
+    background-color: chartreuse;
+    height: 33.33%;
+    width: 33.33%;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.thred {
+    background-color: olive;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.lt {
+    background-color: black;
+    height: 20%;
+    width: 20%;
+    top: 20%;
+    left: 40%;
+    display: inline-block;
+    position: absolute;
+}
+
+.ml {
+    background-color: red;
+    height: 20%;
+    width: 20%;
+    top: 40%;
+    left: 20%;
+    display: inline-block;
+    position: absolute;
+}
+
+.mr {
+    background-color: red;
+    height: 20%;
+    width: 20%;
+    top: 40%;
+    left: 60%;
+    display: inline-block;
+    position: absolute;
+}
+
+.lb {
+    background-color: black;
+    height: 20%;
+    width: 20%;
+    top: 60%;
+    left: 40%;
+    display: inline-block;
+    position: absolute;
+}
